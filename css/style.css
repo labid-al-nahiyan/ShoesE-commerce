@@ -1,0 +1,75 @@
+body{
+    
+    margin: 0;
+}
+header{
+    
+    background-color: #FFF9F4;
+    padding-bottom: 140px;
+    margin-bottom: 40px;
+}
+.nav-modify{
+    color: #3C3C3C;
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+    
+    
+}
+.banner{
+    width: 60%;
+    margin: 120px;
+}
+.banner-title{
+    font-family: 'Bebas Neue', cursive;
+    font-size: 80px;
+    line-height: 90%;
+}
+.title{
+    color: #363958;
+    font-weight: 650;
+}
+.para-text{
+    font-weight: 500;
+    color: #3E3E3E;
+}
+.orange-text{
+    color: #FA804C;
+    font-weight: bold;
+}
+.custom-footer{
+    background-color: white;
+    border: 0px;
+    
+}
+.custom-card{
+    border: 0px;
+    border-radius: 15px;
+    
+
+}
+.card-custom-img{
+    background-color: #F1F1F1;
+    border-radius: 15px;
+}
+.custom-vertical-card{
+    height: auto;
+    border: 0px;
+    border-radius: 10px;
+    
+}
+.custom-vertical-card img{
+    width: 90px;
+}
+button{
+    background-color: #3D4FF3;
+    padding: 15px ;
+    border: 0px;
+    font-weight: 500;
+    font-family: 'Roboto', sans-serif;
+   border-radius: 8px;
+    color: #FFFFFF;  
+}
+footer{
+    background-color: #ffdabc;
+
+}
